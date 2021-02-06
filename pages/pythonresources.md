@@ -38,6 +38,7 @@ works through your web browser, so things will work right away!
 
 #### Online tutorials
  - [Tutorial from Data Carpentry](http://www.datacarpentry.org/python-ecology)
+ - [Data Science Course Syllabus].(https://360digitmg.com/data-science)
  - [Tutorial from the official Python website](http://docs.python.org/2/tutorial/)
  - [The Beginners' Guide from the Python wiki](http://wiki.python.org/moin/BeginnersGuide)
  - [A useful collection of Python tutorials](http://pythontips.com/2013/09/01/best-python-resources/)
